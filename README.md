@@ -130,7 +130,7 @@ I'm a passionate Full-Stack Software Engineer with **5+ years of experience** bu
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+*"Eat. Sleep.Code.Prompt"*
 
 **[Portfolio](https://nyashachiza.github.io/chizaResume/) · [GitHub](https://github.com/nyashaChiza) · [LinkedIn](https://www.linkedin.com/in/nyasha-chizampeni-25437986/)**
 
